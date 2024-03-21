@@ -1,0 +1,14 @@
+A:\c#sources\factory\factory\bin\Debug\net8.0\factory.exe
+A:\c#sources\factory\factory\bin\Debug\net8.0\factory.deps.json
+A:\c#sources\factory\factory\bin\Debug\net8.0\factory.runtimeconfig.json
+A:\c#sources\factory\factory\bin\Debug\net8.0\factory.dll
+A:\c#sources\factory\factory\bin\Debug\net8.0\factory.pdb
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.AssemblyInfoInputs.cache
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.AssemblyInfo.cs
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.csproj.CoreCompileInputs.cache
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.dll
+A:\c#sources\factory\factory\obj\Debug\net8.0\refint\factory.dll
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.pdb
+A:\c#sources\factory\factory\obj\Debug\net8.0\factory.genruntimeconfig.cache
+A:\c#sources\factory\factory\obj\Debug\net8.0\ref\factory.dll
