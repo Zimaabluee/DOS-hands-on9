@@ -1,0 +1,14 @@
+A:\c#sources\Logger\Logger\bin\Debug\net8.0\Logger.exe
+A:\c#sources\Logger\Logger\bin\Debug\net8.0\Logger.deps.json
+A:\c#sources\Logger\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+A:\c#sources\Logger\Logger\bin\Debug\net8.0\Logger.dll
+A:\c#sources\Logger\Logger\bin\Debug\net8.0\Logger.pdb
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.dll
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\refint\Logger.dll
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.pdb
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+A:\c#sources\Logger\Logger\obj\Debug\net8.0\ref\Logger.dll
